@@ -1,3 +1,5 @@
 # comparetolist
 Simple API to compare variables to all words in list/file.
-Edit main.bat to use.
+Usage: 
+ctl file word
+e.g. ctl mylistoffurniture.txt armchair
